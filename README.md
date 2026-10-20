@@ -1,146 +1,146 @@
 
 <!--
-  GITHUB PROFILE README
-  Replace YOUR_USERNAME with your GitHub username.
-  Replace YOUR_NAME with your display name.
+  SHRIVELED | GitHub Profile README
+  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 -->
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=220&section=header&text=YOUR_NAME&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Profile Banner"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050A18,35:0D47A1,70:1976D2,100:64B5F6&text=SHRIVELED&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20BUILDER&descSize=16&descAlignY=58&animation=fadeIn" />
 
-  <h3>Building ideas into reality.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=42A5F5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+Ideas+Into+Reality;Code.+Create.+Innovate.;Always+Learning+Something+New." alt="Typing SVG" />
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Web+%7C+Automation;Always+Learning+Something+New" alt="Typing SVG" />
-  </p>
+<br/>
 
-  <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Profile-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Development-1E88E5?style=for-the-badge" alt="Development" />
-    <img src="https://img.shields.io/badge/Status-Learning-42A5F5?style=for-the-badge" alt="Learning" />
-  </p>
+<img src="https://img.shields.io/badge/PROFILE-SHRIVELED-0D47A1?style=for-the-badge&labelColor=050A18" />
+<img src="https://img.shields.io/badge/STATUS-CREATING-1976D2?style=for-the-badge&labelColor=050A18" />
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-42A5F5?style=for-the-badge&labelColor=050A18" />
+
+<br/><br/>
+
+<a href="https://t.me/Caslce">
+  <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/channel_doki">
+  <img src="https://img.shields.io/badge/Telegram-Channel-1565C0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — ABOUT ME
 
-```yaml
-name: YOUR_NAME
-role: Developer
-interests:
-  - Software Development
-  - Web Development
-  - Python & Automation
-  - APIs & Developer Tools
-  - Open Source
-currently_learning: New Technologies
-goal: Build useful and reliable software
+```console
+┌──[ shriveled@github ]
+└─$ whoami
+
+Name      : Shriveled
+Role      : Developer
+Interests : Software, Automation, Web & APIs
+Mindset   : Build. Test. Improve.
+Status    : Always exploring new technologies
 ```
 
-- 💡 I enjoy turning ideas into practical projects.
-- 🛠️ I like building tools, applications, and automation workflows.
-- 🌱 I continuously explore new technologies and development practices.
-- 🎯 I value readable code, useful features, and maintainable projects.
+> Creating digital experiences, experimenting with code, and building tools that make things easier.
+
+- `⚡` Interested in software development and automation.
+- `⌘` Exploring programming languages and modern tools.
+- `◈` Focused on practical projects and clean code.
+- `↗` Learning, building, and improving every day.
 
 ---
 
-## ⚡ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" alt="Programming Languages" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,git,github,vscode,linux,docker&theme=dark" alt="Frameworks and Tools" />
-</p>
-
-> Customize this section to show only technologies you actually use.
-
----
-
-## 📊 GitHub Analytics
+## `02` — TECHNOLOGY STACK
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&text_color=C9D1D9&rank_icon=github"
-    height="180"
-    alt="GitHub Statistics"
-  />
+### LANGUAGES
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=C9D1D9"
-    height="180"
-    alt="Most Used Languages"
-  />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" />
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nodejs,react,fastapi&theme=dark" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## `03` — GITHUB ANALYTICS
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050A18&title_color=42A5F5&icon_color=42A5F5&text_color=C9D1D9&ring_color=1976D2&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050A18&title_color=42A5F5&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050A18&ring=42A5F5&fire=64B5F6&currStreakLabel=42A5F5&sideLabels=90CAF9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8CA3" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `04` — CONTRIBUTION GRAPH
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
-
-</div>
-
-- **Project One** — A useful tool or application.
-- **Project Two** — An automation or developer productivity project.
-- **Project Three** — An experiment with a new technology.
-
-> Replace these examples with links and descriptions of your real repositories.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Add your real website or social links here. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050A18&color=90CAF9&line=1976D2&point=64B5F6&area=true&hide_border=true&custom_title=SHRIVELED%20%2F%20CONTRIBUTION%20ACTIVITY" width="100%" />
 
 </div>
 
 ---
 
+## `05` — PROJECTS
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1565C0,100:0D47A1&height=100&section=footer" width="100%" alt="Footer Banner" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-1565C0?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <p><i>"Code. Learn. Build. Repeat."</i></p>
+</div>
+
+- **Developer Tools** — Utilities and tools for everyday development.
+- **Automation** — Scripts and workflows that simplify repetitive tasks.
+- **Experiments** — Exploring new ideas, libraries, and technologies.
+
+> Replace these examples with your actual projects when ready.
+
+---
+
+## `06` — CONNECT
+
+<div align="center">
+
+<a href="https://t.me/Caslce">
+  <img src="https://img.shields.io/badge/CONTACT-@Caslce-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://t.me/channel_doki">
+  <img src="https://img.shields.io/badge/JOIN-TELEGRAM%20CHANNEL-1565C0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Contact Telegram: <a href="https://t.me/Caslce">t.me/Caslce</a></sub>
+
+<sub>Channel: <a href="https://t.me/channel_doki">t.me/channel_doki</a></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:64B5F6,50:1565C0,100:050A18" />
+
+### `SHRIVELED`
+
+<code>Think independently. Build creatively. Keep improving.</code>
 
 </div>
