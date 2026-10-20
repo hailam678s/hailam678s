@@ -47,9 +47,6 @@ automation tools, APIs, and practical developer utilities.
 > Keep only technologies you actively use. Add other languages and tools
 > when you have real projects demonstrating them.
 
-## GitHub Statistics
-
-
 
 ## Contribution Streak
 
